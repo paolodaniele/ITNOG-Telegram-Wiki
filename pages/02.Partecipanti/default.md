@@ -28,6 +28,7 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
 |[Xanio81](https://t.me/Xanio81) | Andrea | Crisafulli | Link Space srl | AS203089 |
+|[paolodaniele](https://t.me/paolo_daniele) | Paolo | Daniele | Intendo | [AS34691](https://www.peeringdb.com/asn/34691) |
 |[sakinaga](https://t.me/sakinaga) | Stefano | De Blasi | LocLix | [AS207590](https://www.peeringdb.com/asn/207590) |
 |godzillante | Francesco | De Francesco | Keliweb | [AS202675](https://www.peeringdb.com/asn/202675) |
 |[freecris](https://t.me/freecris)| Cristiano | Deana | MegaWeb | [AS42669](https://www.peeringdb.com/asn/42669) |
